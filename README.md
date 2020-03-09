@@ -20,9 +20,9 @@ sudo docker build -t Facial-Recognition .
 
 ## Step 4 ( Do this once)
 ```zsh
-sudo docker run --name Facial-Recognition -it Facial-Recognition 
+sudo docker run -t facial-recognition -it Facial-Recognition 
 ```
 ### Note: subsequent startups should use
 ```zsh
-sudo docker run Facial-Recognition
+sudo docker run facial-recognition
 ```
