@@ -4,7 +4,8 @@ How to use
 ---
 ## Step 1
 ```zsh
-Install docker by following the instructions in ```[https://docs.docker.com/install](https://docs.docker.com/install)
+Install docker by following the instructions in ```
+[https://docs.docker.com/install](https://docs.docker.com/install)
 
 ## Step 2
 ```zsh
