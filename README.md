@@ -1,4 +1,5 @@
 # Facial Recognition Project
+##--NOT MAINTAINED--
 
 How to use
 ---
